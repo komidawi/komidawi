@@ -32,6 +32,8 @@ This is so far the biggest non-commercial project I've taken part in. It is a co
 
 __Technologies__: `Kotlin`, `Ktor`, `Ktor-OpenAPI-Generator`, `Kotest`, `Mockk`, `JWT`, `RAPTOR`, `Jackson`, `Gradle`
 
+<br />
+
 ### [PizzaCostCalculator](https://github.com/komidawi/PizzaCostCalculator)
 __Handy Android app which helps to make an optimal decision when choosing pizza size and shape.__<br />
 Project focused on high code quality and proper coding and Android architecture practices. Much code written with TDD, high coverage levels. Unit tests, integration tests, e2e tests. CI/CD made with Bitrise. SonarQube and CodeCov for metrics.<br />
@@ -48,9 +50,13 @@ Initially started in Java and legacy, later converted to modern Kotlin Fragments
 
 **Technologies**: `Android`, `Kotlin`, `Gradle`, `Fuel`, `Gson`
 
+<br />
+
 ### [PostgreSQL-Classes](https://github.com/komidawi/PostgreSQL-Classes)
 __Database exercises of `PostgreSQL` and `PL/pgSQL`__. <br /> 
 Although it's not a project, this repository is a valuable source of knowledge still helpful in my everyday programmer life. Even after years I use it as a straightforward reference showing usage of queries or functions.
+
+<br />
 
 ### [PlatformPythonGame](https://github.com/komidawi/Platform-Python-Game)
 __A simple, yet fully playable platform game made with PyGame.__ <br />

@@ -8,9 +8,8 @@
 
 * IT enthusiast keen on programming
 * JVM fan: Java liker, Kotlin lover 😉
-* 3+ years commercial experience, mostly in backend
+* ~3.5+ years of commercial experience, mostly in backend
 * Computer Science BSc
-* Adventures seeker
 
 <br />
 <sub>Java, Kotlin, Spring, Spring Boot, Hibernate, SQL, PostgreSQL, PL/pgSQL, Ktor, Maven, Gradle, Android, Python, Kotest, JUnit, Spock, Mockito, TDD, BDD, Unit Testing, Integration Testing, Docker, Jenkins, CI/CD, ELK, REST API, OpenAPI, Clean Code, Clean Architecture, SOLID, DRY, YAGNI, KISS, POLA, DDD, Hexagonal Architecture (Ports and Adapters), Git, GitHub, GitLab, Bitbucket, Unix, Linux, Ubuntu, Windows, Functional Programming, IntelliJ IDEA proficiency, SCRUM, JIRA, Confluence, Microservices</sub>
@@ -38,7 +37,7 @@ __Technologies__: `Kotlin`, `Ktor`, `Ktor-OpenAPI-Generator`, `Kotest`, `Mockk`,
 __Handy Android app which helps to make an optimal decision when choosing pizza size and shape.__<br />
 
 Project focused on high code quality and proper coding and Android architecture practices. Much code written with TDD, high coverage levels. Unit tests, integration tests, e2e tests. CI/CD made with Bitrise. SonarQube and CodeCov for metrics.<br />
-I wanted it to be both my child and showcase of coding skills.<br />
+I wanted this project be the one without any deadlines. It was supposed to answer the question: "If I had unlimited amount of time, how would the code look like then?"<br />
 
 **Technologies**: `Kotlin`, `Room`, `JUnit`, `Mockito`, `Espresso`, `Gradle`, `Bitrise`, `SonarQube`, `CodeCov`
 

@@ -8,7 +8,7 @@
 
 * IT enthusiast keen on programming
 * JVM fan: Java liker, Kotlin lover 😉
-* ~3.5+ years of commercial experience, mostly in backend
+* ~3.5 years of commercial experience, mostly in backend
 * Computer Science BSc
 
 <br />

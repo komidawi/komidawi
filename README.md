@@ -8,11 +8,11 @@
 
 * IT enthusiast keen on programming
 * JVM fan: Java liker, Kotlin lover 😉
-* \>3.5 years of commercial experience, mostly in backend
+* ~4 years of commercial experience, mostly in backend
 * Computer Science BSc
 
 <br />
-<sub>Java, Kotlin, Spring, Spring Boot, Hibernate, SQL, PostgreSQL, PL/pgSQL, Ktor, Maven, Gradle, Android, Python, Kotest, JUnit, Spock, Mockito, TDD, BDD, Unit Testing, Integration Testing, Docker, Jenkins, CI/CD, ELK, REST API, OpenAPI, Clean Code, Clean Architecture, SOLID, DRY, YAGNI, KISS, POLA, DDD, Hexagonal Architecture (Ports and Adapters), Git, GitHub, GitLab, Bitbucket, Unix, Linux, Ubuntu, Windows, Functional Programming, IntelliJ IDEA proficiency, SCRUM, JIRA, Confluence, Microservices</sub>
+<sub>Java, Kotlin, Spring, Spring Boot, Hibernate, SQL, PostgreSQL, PL/pgSQL, Ktor, Maven, Gradle, Android, Python, Kotest, JUnit, Spock, Mockito, TDD, BDD, Unit Testing, Integration Testing, Docker, Jenkins, CI/CD, ELK, Kafka, REST API, OpenAPI, Clean Code, Clean Architecture, SOLID, DRY, YAGNI, KISS, POLA, DDD, Hexagonal Architecture / Ports and Adapters, Git, GitHub, GitLab, Bitbucket, Unix, Linux, Ubuntu, Windows, Functional Programming, IntelliJ IDEA, SCRUM, JIRA, Confluence, Microservices</sub>
 <br />
 
 <br />

@@ -4,6 +4,29 @@
 
 <br />
 
+# New blog
+
+I'd love to invite you to check out my recently created blog:
+
+[komidawi.github.io](https://komidawi.github.io/)
+===
+
+
+where all new posts and articles will appear :)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+# Former blog
+
+Before the blog above was created, this GitHub page fulfilled such a role. You can see the last snapshot of it below.
+
+In the future, this section will be removed and only the blog will be maintained.
+
 ## About me
 
 * IT enthusiast keen on programming

@@ -8,7 +8,7 @@ I'm komidawi and I'm flattered you came here :)
 
 
 
-[komidawi.github.io](https://komidawi.github.io/about/)
+[komidawi.it](https://komidawi.it/about/)
 ===
 
 ⬆️ All information can be found on my blog/portfolio website  

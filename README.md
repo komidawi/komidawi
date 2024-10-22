@@ -4,14 +4,14 @@ I'm komidawi and I'm flattered you came here :)
 
 <br />
 
----
 
 
 
-[komidawi.it](https://komidawi.it/about/)
+
+[➡️ komidawi.it ⬅️](https://komidawi.it/about/)
 ===
 
-⬆️ All information can be found on my blog/portfolio website  
+⬆️ This is my blog/portfolio website, visit it for more information
 
 <br />
 <br />

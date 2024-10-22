@@ -8,7 +8,7 @@ I'm komidawi and I'm flattered you came here :)
 
 
 
-[➡️ komidawi.it ⬅️](https://komidawi.it/about/)
+[➡️ www.komidawi.it ⬅️](https://komidawi.it/about/)
 ===
 
 ⬆️ This is my blog/portfolio website, visit it for more information
